@@ -63,6 +63,10 @@ footer {
     background-color: cornsilk;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: darkgoldenrod;
   }
@@ -73,6 +77,7 @@ footer {
 
   #column-3 {
     background-color: maroon;
+    width: 100%;
   }
 
   footer {
@@ -88,6 +93,10 @@ footer {
     background-color: seashell;
   }
 
+  .col-3 {
+    width: 33.33%;
+  }
+
   #column-1 {
     background-color: pink;
   }
@@ -98,6 +107,7 @@ footer {
 
   #column-3 {
     background-color: mistyrose;
+    width: 33.33%;
   }
 
   footer {
